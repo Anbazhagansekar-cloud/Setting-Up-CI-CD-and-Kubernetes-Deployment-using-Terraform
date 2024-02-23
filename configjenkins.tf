@@ -1,5 +1,5 @@
 provider "jenkins" {
-  version = "~> 1.11"
+  version = "~> 2.1"
   url     = "http://jenkins-server-url/"
   username = "admin"
   password = "admin"
